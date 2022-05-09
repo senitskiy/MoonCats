@@ -30,7 +30,7 @@ let initWeb3 = async () => {
     
 
     // iterate through the 3 test token minted
-    for (let i = 1; i <= 3; i++) {
+    // for (let i = 1; i <= 3; i++) {
 
         // get their URI
         // await deployedContract.methods.tokenURI(i)
@@ -44,7 +44,7 @@ let initWeb3 = async () => {
         //         NFTmetadata.push(response.data)
         //     })
         // })
-    }
+    // }
 }
 
 
